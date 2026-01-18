@@ -1,2 +1,5 @@
 # Global Illumination Raytracer
-My Raytracer for Global Illumination
+
+Team Members: Will Slyman
+
+Here you will find all of my files for my Raytracer for Global Illumination!
